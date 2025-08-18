@@ -1,0 +1,67 @@
+{
+  "thefts": [
+    {
+      "name": "Store",
+      "emoji": "<:Br8_4:1403783052974358538>",
+      "safes": 2,
+      "wants": ["2 Lockpick"],
+      "add": ["1 Key House", "$250", "$750", "$20", "$200", "$888", "$150", "$387", "$100", "$1", "$500"]
+    },
+    {
+      "name": "House",
+      "emoji": "🏠",
+      "safes": 3,
+      "wants": ["1 Key House", "1 Lockpick Advanced", "2 Lockpick"],
+      "add": ["1 Card Laundry", "1 Armor", "1 Lockpick Advanced", "1 Diving Kit", "$2000", "$300", "$1800", "$200", "$600", "$4000", "Empty"]
+    },
+    {
+      "name": "Laundry",
+      "emoji": "<:Br8_4:1403781792389136595>",
+      "safes": 4,
+      "wants": ["1 Card Laundry", "2 Lockpick", "2 Lockpick Advanced"],
+      "add": ["1 Card Laxury", "$1000", "Hacking Flash", "$2000", "$3000", "$3500", "$4000", "$200", "$10000", "$900", "Parachute", "Handcuffs", "Empty", "$10"]
+    },
+    {
+      "name": "Laxury",
+      "emoji": "<:Br8_4:1403780684971249674>",
+      "safes": 5,
+      "wants": ["1 Card Laxury", "2 Lockpick", "2 Lockpick Advanced", "1 Hacking Laptop"],
+      "add": ["1 Card Cash-Exchange", "$10000", "$20000", "$30000", "$5500", "$9000", "$1000", "Empty", "$100"]
+    },
+    {
+      "name": "Cash-Exchange",
+      "emoji": "<:Br8_4:1403780009352626328>",
+      "safes": 6,
+      "wants": ["1 Card Cash-Exchange", "2 Lockpick", "2 Lockpick Advanced", "2 Hacking Flash", "1 Hacking Laptop", "1 Electric Laptop", "1 Meth"],
+      "add": ["1 Card Bobcat", "5 Lockpick Advanced", "$30000", "$35000", "$15000", "$8000", "$3000", "$7000", "$300", "$1500", "Empty"]
+    },
+    {
+      "name": "Bobcat",
+      "emoji": "<:Br8_2:1403390393701240872>",
+      "safes": 7,
+      "wants": ["1 Card Bobcat", "1 Hacking IPhone", "3 Lockpick", "2 Lockpick Advanced", "1 Hacking Flash"],
+      "add": ["$100000", "Card Fleeca", "$50000", "$4000", "$40000", "$8000", "$5000", "$9000", "$70000", "$35000", "$500", "10 Lockpick Advanced", "Empty"]
+    },
+    {
+      "name": "FleecaBank",
+      "emoji": "<:Br8_4:1403779868503572551>",
+      "safes": 6,
+      "wants": ["1 Card Fleeca", "1 Dril", "1 Hacking IPhone", "2 Lockpick", "2 Lockpick Advanced", "3 Meth", "2 Hacking Flash", "1 Hacking Laptop", "1 Electric Laptop"],
+      "add": ["1 Card Blaine-Cunty", "$80000", "Empty", "$10000", "$1000", "8 Lockpick Advanced", "Hacking Laptop", "Electric Laptop", "Hacking Flash", "PD.Keys", "$100000", "$50000", "Empty", "$40000", "Empty", "$150000", "Empty", "25 Lockpick Advanced"]
+    },
+    {
+      "name": "Blaine Cunty",
+      "emoji": "<:Br8_4:1403783181454282752>",
+      "safes": 8,
+      "wants": ["1 Card Blaine-Cunty", "2 Drill", "10 Meth", "5 Lockpick", "4 Lockpick Advanced", "3 Hacking Flash", "2 Hacking Laptop", "3 Electric Laptop", "5 CoCaine"],
+      "add": ["1 Card Jewelry", "50 Lockpick Advanced", "2 Card Bobcat", "Empty", "$100000", "$200000", "$90000", "$10000", "$30000", "$70000", "$150000", "Empty", "Empty"]
+    },
+    {
+      "name": "Jewelry",
+      "emoji": "💎",
+      "safes": 7,
+      "wants": ["1 Card Jewelry", "4 Meth", "4 Lockpick", "2 Lockpick Advanced", "1 Dril", "2 Hacking Flash", "1 Hacking Laptop", "2 Electric Laptop", "3 CoCaine"],
+      "add": ["3 Card Fleeca", "5 Meth", "2 Jewelry Bag", "10 Pistol.50 Golden", "Empty", "20 Electric Laptop", "50 Hacking Laptop", "PD.Radio", "Empty", "$200000", "$100000", "$50000", "$10000", "$99000", "$170000", "$5000", "Empty", "Empty"]
+    }
+  ]
+}

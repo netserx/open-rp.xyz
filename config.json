@@ -1,0 +1,77 @@
+{
+  "embedColor": "#00ff00",
+  "prefix": "-",
+  "ticket": {
+    "support": "1370121909047660564",
+    "high": "1370121907395100772",
+    "comp": "1370121910494429314",
+    "add": "1370121898737795134",
+    "store": "1370121905796943902"
+  },
+  "ticket_roles": {
+    "support": "1397939808898383962",
+    "high": "1370121635901870201",
+    "comp": "1370121700569776272",
+    "add": "1370121704269156546",
+    "store": "1370121676947460126"
+  },
+  "ticketLog": "1396647933687890035",
+  "invLog": "1399395371243016228",
+  "lineImage": "",
+  "clambRole": "1275994585507696782",
+  "clambLog": "12076200756533530624",
+  "clambAdmin": [
+    "1218439672686972979",
+    "1218364875995353161",
+    "1224480321282506772"
+  ],
+  "magic_images": [
+    "https://i.imgur.com/QmuiJCR.gif",
+    "https://i.imgur.com/0yGUfnY.gif"
+  ],
+  "hospital_image": "https://i.imgur.com/7qZ3nwu.gif",
+  "prices": {
+    "IPhone": 250,
+    "Radio": 200,
+    "Camera": 400,
+    "Parachute": 80,
+    "Lockpick": 100,
+    "Axe": 50,
+    "Flashlight": 70,
+    "HeavyArmor": 500,
+    "LockpickAdvanced": 2000,
+    "Knife": 150,
+    "DivingKit": 300,
+    "Dril": 800,
+    "Heavybag": 350
+  },
+  "names": {
+    "IPhone": "IPhone",
+    "Radio": "Radio",
+    "Camera": "Camera",
+    "Parachute": "Parachute",
+    "Lockpick": "Lockpick", 
+    "Axe": "Axe",
+    "Flashlight": "Flash light",
+    "HeavyArmor": "Heavy Armor",
+    "LockpickAdvanced": "Lockpick Advanced",
+    "Knife": "Knife",
+    "DivingKit": "Diving Kit",
+    "Dril": "Dril",
+    "Heavybag": "Heavy bag"
+  },
+  "emojis": {
+    "IPhone": "<:Br8_5:1403390670416379998>",
+    "Radio": "<:Br8_5:1403390754658975754>",
+    "Camera": "<:Br8_5:1404641817491669065>",
+    "Parachute": "<:Br8_5:1404642115534852116>",
+    "Lockpick": "<:Br8_5:1404513426922799276>",
+    "Axe": "<:Br8_5:1404642166474670161>",
+    "Flashlight": "<:Br8_5:1404642457316229160>",
+    "HeavyArmor": "<:Br8_1:1404642987937628171>",
+    "LockpickAdvanced": "<:Br8_5:1404643278451900500>",
+    "Knife": "<:Br8_5:1403390730944253984>",
+    "Dril": "<:Br8_5:1403390706080284755>",
+    "Heavybag": "<:Br8_3:1404643510828929095>"
+  }
+}

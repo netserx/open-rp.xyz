@@ -1,0 +1,75 @@
+{
+    "1": [
+        {
+            "name": "Vintage Pistol",
+            "Aluminium": 2,
+            "Iron": 1,
+            "Gunpowder": 1,
+            "Plastic": 1,
+             
+            "image": "https://i.imgur.com/3abRbrg.png"
+        }
+    ],
+    "2": [
+        {
+            "name": "SNS Pistol",
+            "Aluminium": 270,
+            "Iron": 250,
+            "Gunpowder": 220,
+            "Plastic": 220,
+             
+            "image": "https://i.imgur.com/WFCwldj.png"
+        }
+    ],
+    "3": [
+        {
+            "name": "Pistol",
+            "Aluminium": 340,
+            "Iron": 320,
+            "Gunpowder": 300,
+            "Plastic": 300,
+             
+            "image": "https://i.imgur.com/wWC7mJA.png"
+        }      
+    ],
+    "4": [
+        {
+            "name": "Combat Pistol",
+            "Aluminium": 410,
+            "Iron": 390,
+            "Gunpowder": 370,
+            "Plastic": 370,
+             
+            "image": "https://i.imgur.com/lNOIgDD.png" 
+        },
+        {
+            "name": "Heavy Pistol",
+            "Aluminium": 480,
+            "Iron": 460,
+            "Gunpowder": 440,
+            "Plastic": 440,
+             
+            "image": "https://i.imgur.com/s991BcD.png"
+        }
+    ],
+    "5": [
+        {
+            "name": "Pistol.mk2",
+            "Aluminium": 550,
+            "Iron": 530,
+            "Gunpowder": 510,
+            "Plastic": 510,
+             
+            "image": "https://i.imgur.com/6bXyH3J.png" 
+        },
+        {
+            "name": "Pistol.50",
+            "Aluminium": 590,
+            "Iron": 570,
+            "Gunpowder": 550,
+            "Plastic": 550,
+             
+            "image": "https://i.imgur.com/kKM9V8D.png"
+        }
+    ]
+} 
