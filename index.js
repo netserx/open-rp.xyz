@@ -6,6 +6,12 @@ mongoose.set('strictQuery', true);
 
 const { Client, Collection, GatewayIntentBits, Partials } = require("discord.js");
 
+// تتأكد إنك حاطط ملف .env فيه مثلا:
+// TOKEN1=أول_توكن_هنا
+// TOKEN2=التاني_توكن_هنا
+// MONGO_URI=رابط_الـ_MongoDB
+
+// اتصال واحد بالقاعدة
 mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log('Database Connected'))
   .catch((err) => console.error('DB connect error:', err));
@@ -29,10 +35,11 @@ const createBot = (token, nameSuffix) => {
     ]
   });
 
+  // جمع الكوماندات لكل بوت
   client.messageCommands = new Collection();
   client.slashCommands = new Collection();
 
-
+  // تحمل الهاندلرز (لو هي مصممة بحيث تستقبل الـ client)
   ["events", "slash", "message"].forEach(file => {
     require(`./handler/${file}`)(client);
   });
@@ -44,8 +51,7 @@ const createBot = (token, nameSuffix) => {
   client.on('error', console.error);
   client.on('warn', console.warn);
 
-
-
+  // حماية من أخطاء غير معلومة
   process.on('uncaughtException', (error) => {
     console.error(`Uncaught Exception (${nameSuffix}):`, error);
   });
@@ -61,7 +67,7 @@ const createBot = (token, nameSuffix) => {
   return client;
 };
 
-
+// تشغيل البوتين
 const bot1 = createBot(process.env.TOKEN1, "الأول");
 const bot2 = createBot(process.env.TOKEN2, "التاني");
 
